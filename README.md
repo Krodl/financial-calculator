@@ -1,4 +1,4 @@
 # Financial Calculator
 
 ## About
-README coming soon.
+README coming soon
